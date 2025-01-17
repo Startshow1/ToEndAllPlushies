@@ -1,4 +1,4 @@
-Changelog<br>
+**Changelog**<br>
 <br>
 1.0.0<br>
 Added Plush<br>
