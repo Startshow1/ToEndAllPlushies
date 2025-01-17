@@ -20,7 +20,7 @@ Added Startshow Plush<br>
 Added Startshow Beach Plush<br>
 Added Startshow Maid Plush<br>
 Added TheMagicalChezPlush<br>
-Added Theeno Plush
+Added Theeno Plush<br>
 <br>
 1.1.0<br>
 Added Plush on Stake Model<br>
