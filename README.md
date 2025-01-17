@@ -1,7 +1,7 @@
-Changelog:
-
-1.0.0
-Added Plush
+Changelog:<br>
+<br>
+1.0.0<br>
+Added Plush<br>
 Added Plush recipe
 Added BluesRains Plush
 Added RedStorm Plush
