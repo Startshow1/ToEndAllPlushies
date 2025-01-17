@@ -23,15 +23,20 @@ Added TheMagicalChezPlush<br>
 Added Theeno Plush
 <br>
 1.1.0<br>
-Added Plush on Stake Model
-Added Steve Plush
-Added Alex Plush
-Added Herobrine Plush
-Added Herobrine Plush Recipe
-Added Ari Plush
-Added Efe Plush
-Added Kai Plush
-Added Makena Plush
-Added Noor Plush
-Added Sunny Plush
+Added Plush on Stake Model<br>
+Added Steve Plush<br>
+Added Alex Plush<br>
+Added Herobrine Plush<br>
+Added Herobrine Plush Recipe<br>
+Added BluesRains Femboy Plush<br>
+Added Gestalten Plush<br>
+Added MexicanPai Plush<br>
+Added Tangmar Plush<br>
+Added Theradrad19 Plush<br>
+Added Ari Plush<br>
+Added Efe Plush<br>
+Added Kai Plush<br>
+Added Makena Plush<br>
+Added Noor Plush<br>
+Added Sunny Plush<br>
 Added Zuri Plush
