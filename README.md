@@ -2,22 +2,22 @@ Changelog:<br>
 <br>
 1.0.0<br>
 Added Plush<br>
-Added Plush recipe
-Added BluesRains Plush
-Added RedStorm Plush
-Added BrandonUSA Plush
-Added Colusius Plush
-Added DairyPig Plush
-Added Debuggyo Plush
-Added Dynamite_Gecko Plush
-Added Guusje Plush
-Added HexdePixel Plush
-Added MLGEpicCar Plush
-Added Phernoxar Plush
-Added Razikof Plush
-Added SaxboyLaFranksPlush
-Added Startshow Plush
-Added Startshow Beach Plush
-Added Startshow Maid Plush
-Added TheMagicalChezPlush
+Added Plush recipe<br>
+Added BluesRains Plush<br>
+Added RedStorm Plush<br>
+Added BrandonUSA Plush<br>
+Added Colusius Plush<br>
+Added DairyPig Plush<br>
+Added Debuggyo Plush<br>
+Added Dynamite_Gecko Plush<br>
+Added Guusje Plush<br>
+Added HexdePixel Plush<br>
+Added MLGEpicCar Plush<br>
+Added Phernoxar Plush<br>
+Added Razikof Plush<br>
+Added SaxboyLaFranksPlush<br>
+Added Startshow Plush<br>
+Added Startshow Beach Plush<br>
+Added Startshow Maid Plush<br>
+Added TheMagicalChezPlush<br>
 Added Theeno Plush
