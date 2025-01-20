@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "toendallplushies:blocks/debuggyo_plush",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "toendallplushies:debuggyo_plush"
+        }
+      ]
+    }
+  ]
+}

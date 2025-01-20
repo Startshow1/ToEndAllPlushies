@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "toendallplushies:blues_rains_plush"
+  },
+  "result": "toendallplushies:red_storms_plush"
+}

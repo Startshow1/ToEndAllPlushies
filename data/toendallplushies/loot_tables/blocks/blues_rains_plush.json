@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "toendallplushies:blocks/blues_rains_plush",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "toendallplushies:blues_rains_plush"
+        }
+      ]
+    }
+  ]
+}
