@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "toendallplushies:startshow_plush"
-  },
-  "result": "toendallplushies:startshow_maid_plush"
-}
