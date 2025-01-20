@@ -1,9 +1,0 @@
-{
-  "parent": "toendallplushies:custom/plushy",
-  "textures": {
-    "all": "toendallplushies:block/plush_bluesrains_femboy",
-    "particle": "toendallplushies:block/plush_bluesrains_femboy",
-    "0": "toendallplushies:block/plush_bluesrains_femboy"
-  },
-  "render_type": "cutout"
-}

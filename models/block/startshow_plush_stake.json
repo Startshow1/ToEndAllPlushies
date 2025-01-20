@@ -1,9 +1,0 @@
-{
-  "parent": "toendallplushies:custom/plushy_on_a_stake",
-  "textures": {
-    "all": "toendallplushies:block/plush_startshow",
-    "particle": "toendallplushies:block/plush_startshow",
-    "0": "toendallplushies:block/plush_startshow"
-  },
-  "render_type": "cutout"
-}
