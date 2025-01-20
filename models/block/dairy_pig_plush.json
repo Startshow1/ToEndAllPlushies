@@ -1,0 +1,9 @@
+{
+  "parent": "toendallplushies:custom/plushy",
+  "textures": {
+    "all": "toendallplushies:block/plush_dairypig",
+    "particle": "toendallplushies:block/plush_dairypig",
+    "0": "toendallplushies:block/plush_dairypig"
+  },
+  "render_type": "cutout"
+}

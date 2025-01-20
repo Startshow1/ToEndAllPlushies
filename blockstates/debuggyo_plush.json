@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "toendallplushies:block/debuggyo_plush"
+    },
+    "facing=east": {
+      "model": "toendallplushies:block/debuggyo_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "toendallplushies:block/debuggyo_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "toendallplushies:block/debuggyo_plush",
+      "y": 270
+    }
+  }
+}

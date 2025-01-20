@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "toendallplushies:block/mexican_pai_plush"
+    },
+    "facing=east": {
+      "model": "toendallplushies:block/mexican_pai_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "toendallplushies:block/mexican_pai_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "toendallplushies:block/mexican_pai_plush",
+      "y": 270
+    }
+  }
+}

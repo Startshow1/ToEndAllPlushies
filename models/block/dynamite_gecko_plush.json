@@ -1,0 +1,9 @@
+{
+  "parent": "toendallplushies:custom/plushy",
+  "textures": {
+    "all": "toendallplushies:block/plush_dynamite_gecko",
+    "particle": "toendallplushies:block/plush_dynamite_gecko",
+    "0": "toendallplushies:block/plush_dynamite_gecko"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "toendallplushies:block/sunny_plush"
+    },
+    "facing=east": {
+      "model": "toendallplushies:block/sunny_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "toendallplushies:block/sunny_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "toendallplushies:block/sunny_plush",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "toendallplushies:custom/plushy",
+  "textures": {
+    "all": "toendallplushies:block/plush_startshow",
+    "particle": "toendallplushies:block/plush_startshow",
+    "0": "toendallplushies:block/plush_startshow"
+  },
+  "render_type": "cutout"
+}

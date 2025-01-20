@@ -1,0 +1,9 @@
+{
+  "parent": "toendallplushies:custom/plushy",
+  "textures": {
+    "all": "toendallplushies:block/plush_saxboylafranks",
+    "particle": "toendallplushies:block/plush_saxboylafranks",
+    "0": "toendallplushies:block/plush_saxboylafranks"
+  },
+  "render_type": "cutout"
+}
