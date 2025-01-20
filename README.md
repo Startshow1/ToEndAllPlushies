@@ -39,7 +39,7 @@ Added Kai Plush<br>
 Added Makena Plush<br>
 Added Noor Plush<br>
 Added Sunny Plush<br>
-Added Zuri Plush
+Added Zuri Plush<br>
 <br>
 1.2.0<br>
 Added ColorlessRains Plush<br>
