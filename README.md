@@ -40,3 +40,18 @@ Added Makena Plush<br>
 Added Noor Plush<br>
 Added Sunny Plush<br>
 Added Zuri Plush
+<br>
+1.2.0<br>
+Added ColorlessRains Plush<br>
+Added Dinnerbone_ Plush<br>
+Added GameDragun Plush<br>
+Added New gameDragun Plush<br>
+Added Startshow Host Plush<br>
+Added MLGEpicCar Suit Plush<br>
+Added MLGEpicCar Farmer Plush<br>
+Added MLGEpicCar Persona Plush<br>
+Added Mobbo Plush<br>
+Added TheNoobcraft74 Plush<br>
+Added Tuxedo Steve Plush<br>
+Added Zombie Plush<br>
+Added Husk Plush<br>
