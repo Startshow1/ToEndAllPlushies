@@ -12,7 +12,7 @@ Added Debuggyo Plush<br>
 Added Dynamite_Gecko Plush<br>
 Added Guusje Plush<br>
 Added HexdePixel Plush<br>
-Added MLGEpicCar Plush<br>
+Added MlgEpicCar Plush<br>
 Added Phernoxar Plush<br>
 Added Razikof Plush<br>
 Added SaxboyLaFranksPlush<br>
@@ -47,9 +47,9 @@ Added Dinnerbone_ Plush<br>
 Added GameDragun Plush<br>
 Added New gameDragun Plush<br>
 Added Startshow Host Plush<br>
-Added MLGEpicCar Suit Plush<br>
-Added MLGEpicCar Farmer Plush<br>
-Added MLGEpicCar Persona Plush<br>
+Added MlgEpicCar Suit Plush<br>
+Added MlgEpicCar Farmer Plush<br>
+Added MlgEpicCar Persona Plush<br>
 Added Mobbo Plush<br>
 Added TheNoobcraft74 Plush<br>
 Added Tuxedo Steve Plush<br>
