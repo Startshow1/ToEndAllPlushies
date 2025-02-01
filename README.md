@@ -192,3 +192,6 @@ Added Skeleton T-Shirt Steve Plush<br>
 Added Slime T-Shirt Steve Plush<br>
 Added Wither T-Shirt Steve Plush<br>
 Added Wolf T-Shirt Steve Plush<br>
+<br>
+**1.4.0: The Josamo Update**<br>
+Added Josamo Plush<br>
